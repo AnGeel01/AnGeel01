@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hey there, I'm Yahya — aka AnGeel
 
-<!--
-**AnGeel01/AnGeel01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 I'm a graphic designer turning code whisperer!  
+💻 Currently learning **C language** and exploring the world of **software engineering**.  
+🐍 I also dabble in a bit of **Python** magic.  
 
-Here are some ideas to get you started:
+> Mixing pixels and pointers — why not both?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Always curious. Always creating.  
+🎮 Into digital art, coding, and chasing creativity wherever it leads.
+
+🔗 Let’s connect:
+- 🌐 [solo.to/angeel_](https://solo.to/angeel_)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yahya-laksouri-04324a320/)
+
+---
+
+> 💬 *"Design is intelligence made visible — code is the logic behind the magic."*
