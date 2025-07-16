@@ -1,7 +1,7 @@
 ## 👋 Hey there, I'm Yahya — aka AnGeel
 
 🎨 I'm a graphic designer turning code whisperer!  
-💻 Currently learning **C language** and exploring the world of **software engineering**.  
+💻 Currently learning **C language**, **Shell**, **Git**, and diving into **shell scripting** as I explore the world of **software engineering**.  
 🐍 I also dabble in a bit of **Python** magic.  
 
 > Mixing pixels and pointers — why not both?
