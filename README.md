@@ -4,7 +4,7 @@
 💻 Currently learning **C language**, **Shell**, **Git**, and diving into **shell scripting** as I explore the world of **software engineering**.  
 🐍 I also dabble in a bit of **Python** magic.  
 
-> Mixing pixels and pointers — why not both?
+> Turning vision into pixels or bytes — why not both?
 
 🧠 Always curious. Always creating.  
 🎮 Into digital art, coding, and chasing creativity wherever it leads.
