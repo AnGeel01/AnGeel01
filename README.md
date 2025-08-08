@@ -32,4 +32,4 @@
 
 🔗 Let’s connect:
 - 🌐 [solo.to/angeel_](https://solo.to/angeel_)
-- 💼 [LinkedIn](https://www.linkedin.com/in/yahya)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/yahya](https://www.linkedin.com/in/yahya-laksouri-04324a320/))
